@@ -1,0 +1,51 @@
+.brands-section-heading{
+    font-family: monospace;
+    font-size:20px;
+    color: blueviolet;
+    padding:20px;
+    text-align:center;  
+    text-transform: none;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.brand-card{
+    background-color:white;
+    border-radius: 20px;
+    border-style:0px;
+    border-width:1px;
+    text-align: center;
+    padding:10px;
+    margin: 10px;
+}
+.brand-section-heading{
+    font-family: cursive;
+    font-size:20px;
+    color:#003366;
+    padding: 10px;
+    text-decoration: underline;
+}
+.card-descreption{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black;
+    font-size:10px
+}
+.card-paragraph{
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:#333333;
+    font-size:20px
+}
+.card-image{
+height:300px;
+width:300px;
+border-radius: 20px;
+}
+.button{
+    height:40px;
+    width:100px;
+    color: white;
+    background-color: black;
+    font-family: monospace;
+    border-radius: 10px;
+    border-color: orange;
+}
